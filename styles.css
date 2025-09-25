@@ -171,6 +171,18 @@ section:last-child {
   background-image: url ("images/location.jpg");
 }
 
+.services {
+  background-image: url("service.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  background-blend-mode: lighten;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
 /* Images - Clean Presentation */
 img {
   max-width: 100%;
