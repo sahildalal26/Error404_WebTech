@@ -168,6 +168,7 @@ section:last-child {
   border-radius: 8px;
   padding: 24px;
   margin-bottom: 24px;
+  background-image: url("location.jpg")
 }
 
 /* Images - Clean Presentation */
