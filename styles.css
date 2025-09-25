@@ -168,11 +168,10 @@ section:last-child {
   border-radius: 8px;
   padding: 24px;
   margin-bottom: 24px;
-  background-image: url ("images/location.jpg");
 }
 
 .services {
-  background-image: url("service.jpeg");
+  background-image: url("images/service.jpeg");
   background-size: cover;
   background-position: center;
   background-color: rgba(255, 255, 255, 0.5);
